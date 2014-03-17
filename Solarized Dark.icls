@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Solarized Dark" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -10,6 +10,17 @@
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
+    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="9876aa" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="INDENT_GUIDE" value="73642" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
@@ -26,11 +37,23 @@
     <option name="WHITESPACES" value="586e75" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value />
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value />
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
@@ -202,6 +225,9 @@
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value />
     </option>
     <option name="CLASS_REFERENCE">
       <value>
@@ -451,6 +477,12 @@
       <value>
         <option name="FOREGROUND" value="b58900" />
       </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value />
     </option>
     <option name="CSS.COMMENT">
       <value>
@@ -945,6 +977,9 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value />
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -1188,6 +1223,9 @@
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value />
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="73642" />
@@ -1197,6 +1235,9 @@
       <value>
         <option name="FOREGROUND" value="6c71c4" />
       </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value />
     </option>
     <option name="IVAR">
       <value>
@@ -1683,6 +1724,29 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ccffcc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffcccc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffffcc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+      </value>
+    </option>
     <option name="LOCALE.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -1718,6 +1782,9 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value />
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
@@ -2068,6 +2135,12 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value />
+    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -2177,6 +2250,9 @@
       <value>
         <option name="FOREGROUND" value="b58800" />
       </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value />
     </option>
     <option name="PHP_BRACKETS">
       <value>
@@ -2494,6 +2570,39 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="RDOC_DIRECTIVE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RDOC_EMAIL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RDOC_HEADINGS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RDOC_IDENTIFIER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RDOC_KEYWORD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RDOC_URL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value />
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
